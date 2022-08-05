@@ -1,0 +1,18 @@
+.gift {
+    border: 1px solid #eee;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    margin: 16px;
+    padding: 32px;
+    width: 100%;
+}
+
+.gift h4{
+    margin: 0;
+}
+
+.gift img{
+    object-fit: contain;
+}
